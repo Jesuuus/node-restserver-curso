@@ -1,7 +1,4 @@
 require('./config/config');
-//jesus b8irM89osQJDvnoJ
-//MongoDB URL
-//mongodb+srv://jesus:b8irM89osQJDvnoJ@cluster0-9bgzn.mongodb.net/cafe
 
 const express = require('express');
 const mongoose = require('mongoose');
